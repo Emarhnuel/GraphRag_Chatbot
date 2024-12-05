@@ -54,13 +54,4 @@ Key dependencies include:
 - graphviz: Graph visualization
 - Other dependencies listed in `requirements.txt`
 
-## License
 
-[Your chosen license]
-
-## Contributing
-
-[Your contribution guidelines]
-
----
-For more information or support, please [contact details or issue reporting guidelines]
