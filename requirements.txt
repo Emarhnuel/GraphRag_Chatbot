@@ -1,0 +1,13 @@
+python-dotenv
+langchain-community
+langchain-experimental
+wikipedia
+graphviz
+json-repair
+streamlit==1.27.0
+python-dotenv==1.0.0
+langchain==0.0.300
+anthropic
+neo4j==5.12.0
+wikipedia==1.4.0
+pydantic==1.10.12
